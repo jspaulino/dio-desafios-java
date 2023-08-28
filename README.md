@@ -5,5 +5,5 @@ Repositório para colocar todos os desafios do bootcamp Java Backend do Santande
 
 ## Desafio 1
 
-Desafio de sintaxe - Simulação de uma conta bancaria: Projeto contaBanco.
+Desafio de sintaxe - Simulação de uma conta bancaria: projeto ContaBanco.
 [link do repositório](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
