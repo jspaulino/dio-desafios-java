@@ -10,6 +10,7 @@ public class ContaTerminal {
         
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
+        System.out.println("=== Criando sua cnont ano banco ===");
         System.out.println("Digite o nome do cliente:");
         nomeCliente = scanner.nextLine();        
         
